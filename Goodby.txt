@@ -1,3 +1,4 @@
 print("Goodby world;");
 print("Goodby;");
 print("Goodby my dear friend;");
+print("Ololo");
